@@ -38,7 +38,7 @@ An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentati
     catkin_make 
     roslaunch cvc_segment_origin cvc_segment_origin.launch
 ## Connect me
-If you have any problems or ideal to share with, please leave it in Issues part or connet me dircetly, my email is "dingnn@mail.ustc.edu.cn"
+If you have any problems or ideal to share with, please leave it in Issues part or connet me dircetly, my email is "hmx_2013@outlook.com"
 
 ## Contribution
 You are welcome contributing to the package by opening a pull-request
