@@ -10,7 +10,7 @@ An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentati
 ## Features
 * New Spatial Primitive. curved-voxel, a LiDAR-optimized spatial unit reflecting distinct characteristics of 3D LiDAR point clouds. 
 * Algorithm. an efficient method for segmenting 3D LiDAR point clouds by utilizing LiDAR-optimized curved-voxels and efficient hashbased data structure.
-* using autoware_msg to pass the segemntation result
+* using autoware_msg to pass the segmentation result
 
 ## Reference
 * Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance. (IROS) 2019
